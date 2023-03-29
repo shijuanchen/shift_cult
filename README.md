@@ -3,7 +3,7 @@
 Author: Shijuan Chen
 Date: 03/29/2023
 
-I am working on developing GEE tools to facilitate viewing and downloading the map products. The codes, apps and products are publicly available and will be ready to publish this April. Current app: https://shijuanchen32.users.earthengine.app/view/shift-cult
+Google Earth Engine app to visualizate the map products: https://shijuanchen32.users.earthengine.app/view/shift-cult
 
 The map products are now available on Zenodo: [uploading the files]
 
