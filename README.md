@@ -4,7 +4,9 @@ Author: Shijuan Chen
 Date: 03/29/2023
 
 Google Earth Engine app to visualizate the map products: https://shijuanchen32.users.earthengine.app/view/shift-cult
+
 Map visualization video: https://youtu.be/1E0koBtxsTQ 
+
 The map products are now available on Zenodo: https://doi.org/10.5281/zenodo.7782782 
 
 Annual map classes (numbers are class values):
