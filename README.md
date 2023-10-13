@@ -21,8 +21,7 @@ Please cite the two references if you use the datasets:
 
 [Chen, S., Olofsson, P., Saphangthong, T., & Woodcock, C. E. (2023). Monitoring shifting cultivation in Laos with Landsat time series. Remote Sensing of Environment, 288, 113507.](https://www.sciencedirect.com/science/article/pii/S0034425723000585)
 
-.[Chen, S., Woodcock, C. E., Saphangthong, T., & Olofsson, P. (2023).Satellite data reveals a recent increase in shifting cultivation and associated carbon emissions in Laos. Environmental Research Letters, 18, 114012.]
-(https://iopscience.iop.org/article/10.1088/1748-9326/acffdd)
+[Chen, S., Woodcock, C. E., Saphangthong, T., & Olofsson, P. (2023).Satellite data reveals a recent increase in shifting cultivation and associated carbon emissions in Laos. Environmental Research Letters, 18, 114012.](https://iopscience.iop.org/article/10.1088/1748-9326/acffdd)
 
 
 
