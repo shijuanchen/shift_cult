@@ -24,4 +24,4 @@ Please cite the two references if you use the datasets:
 [Chen, S., Woodcock, C. E., Saphangthong, T., & Olofsson, P. (2023).Satellite data reveals a recent increase in shifting cultivation and associated carbon emissions in Laos. Environmental Research Letters, 18, 114012.](https://iopscience.iop.org/article/10.1088/1748-9326/acffdd)
 
 
-
+![GEE_shift_cult.png](https://github.com/shijuanchen/shift_cult/blob/main/GEE_shift_cult.png)
