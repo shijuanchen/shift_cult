@@ -5,6 +5,9 @@ Author: Shijuan Chen
 Google Earth Engine app to visualizate the map products: https://shijuanchen32.users.earthengine.app/view/shift-cult
 
 Google Earth Engine app code to access all map products: 
+https://code.earthengine.google.com/?scriptPath=users%2Fshijuanchen32%2Fshift_cult%3ADisplay_products_app
+
+Google Earth Engine codes of the major steps for differentiating shifting cultivation from other disturbances:
 https://code.earthengine.google.com/?accept_repo=users/shijuanchen32/shift_cult
 
 Map visualization video: https://youtu.be/1E0koBtxsTQ 
