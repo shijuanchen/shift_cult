@@ -4,6 +4,8 @@ Author: Shijuan Chen
 
 Google Earth Engine app to visualizate the map products: https://shijuanchen32.users.earthengine.app/view/shift-cult
 
+The map products can be downloaded from Zenodo: https://doi.org/10.5281/zenodo.7782782 
+
 Google Earth Engine app code to access all map products: 
 https://code.earthengine.google.com/?scriptPath=users%2Fshijuanchen32%2Fshift_cult%3ADisplay_products_app
 
@@ -11,8 +13,6 @@ Google Earth Engine codes of the major steps for differentiating shifting cultiv
 https://code.earthengine.google.com/?accept_repo=users/shijuanchen32/shift_cult
 
 Map visualization video: https://youtu.be/1E0koBtxsTQ 
-
-The map products can be downloaded from Zenodo: https://doi.org/10.5281/zenodo.7782782 
 
 Annual map classes (numbers are class values):
 1. Forest,   2. Plantation,   3. Non-forest,    4. Subtle disturbances  5. Severe drought,   6. New Plantation,   7. Deforestation,  8. Shifting cultivation
